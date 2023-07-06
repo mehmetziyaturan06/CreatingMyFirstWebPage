@@ -10,3 +10,8 @@ git clone https://github.com/mehmetziyaturan06/CreatingMyFirstWebPage.git
 ## Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code Programında açınız .
+
+```
+cd CreatingMyFirstWebPage
+code .
+```
